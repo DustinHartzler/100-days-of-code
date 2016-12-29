@@ -2,11 +2,11 @@
 
 ### Day 1: 29 December 2016
 
-**Today's Progress**: Forked 100 Days of Code
+**Today's Progress**: Forked 100 Days of Code and updated outdated WooCommerce files on thecleft.org
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Pretty boring work. I'm fairly confident that I have more files than needed duplicated, but they are all updated
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Cleft Repository](https://github.com/DustinHartzler/TheCLEFT/commit/2733f569770d2cf39a49ac5677095e0b818585ff)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
