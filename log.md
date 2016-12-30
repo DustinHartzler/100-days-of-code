@@ -8,14 +8,13 @@
 
 **Link to work:** [Cleft Repository](https://github.com/DustinHartzler/TheCLEFT/commit/2733f569770d2cf39a49ac5677095e0b818585ff)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: 30 December 2016
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started working on As Heard On plugin and I fixed the bug that the data wasn't be deleted from the database.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Looking at the code, I'm impressed I was able to modify a Testimonial plugin to get it to work like it has. There's a lot to refactor and make the code simpler.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/3ae18b85dd2208a690456a1135633c7323017627)
 
 
 ### Day 1: June 27, Monday
