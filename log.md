@@ -16,3 +16,10 @@
 
 **Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/3ae18b85dd2208a690456a1135633c7323017627)
 
+### Day 3: 31 December 2016
+
+**Today's Progress**: Added new if statement to check if 'ppg_version' option is set to 0.5. The if statement will look for all the previous options and move them into an array (hopefully tomorrow!)
+
+**Thoughts**: Spent time thinking / planning on how to save current options to a new serialized array. No reason that a small plugin like AHO, should be adding more than 2 or 3 rows to the table. Currently there's more than 20!
+
+**Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/fc5d79d15804e5eec18ae811496422141f820566)
