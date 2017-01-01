@@ -23,3 +23,11 @@
 **Thoughts**: Spent time thinking / planning on how to save current options to a new serialized array. No reason that a small plugin like AHO, should be adding more than 2 or 3 rows to the table. Currently there's more than 20!
 
 **Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/fc5d79d15804e5eec18ae811496422141f820566)
+
+### Day 4: 01 January 2017
+
+**Today's Progress**: Created `legacy.php` to add all the code to remove old options from WordPress database
+
+**Thoughts**: Really important to set a plugin up initially correctly. I'm finding it's very tedious to remove options, but save the settings in the database.
+
+**Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/b5514b245aee953ea78651ea72074c86b771157c)
