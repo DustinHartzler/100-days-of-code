@@ -31,3 +31,11 @@
 **Thoughts**: Really important to set a plugin up initially correctly. I'm finding it's very tedious to remove options, but save the settings in the database.
 
 **Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/b5514b245aee953ea78651ea72074c86b771157c)
+
+### Day 5: 02 January 2017
+
+**Today's Progress**: Removed a nevercalled function that was supposed to remove settings from the database. Also, moved the location of the 'help' menu so it was visible on all pages and made the footer less bulky
+
+**Thoughts**: Worked solidly for an hour and didn't accomplish much. Starting to see why software development takes so long! Need to work on calling data from new serialized arrays tomorrow.
+
+**Links to work**: [#](https://github.com/DustinHartzler/As-Heard-On/commit/2dbbd5b9c7e513930e9a57927105c7d5c89fe265), [#](https://github.com/DustinHartzler/As-Heard-On/commit/8a0e92a16b32d4e9dc23a3e7681f68505db585c2), [#](https://github.com/DustinHartzler/As-Heard-On/commit/54b90a1da2a637f0ace338c18ff13f21561e49a1)
