@@ -47,3 +47,11 @@
 **Thoughts**: Slow moving today. Started to move variables to serialized array. Much harder than expected.
 
 **Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/7f2b3f02dd98ddb5b8f6b574aed6ee19726d569d)
+
+### Day 7: 04 January 2017
+
+**Today's Progress**: Added 3 new variables to the array and tested to make sure the options were working correctly. `showlink`, `image_width`, and `image_height` are now working as well as `linktext` from late last night's bonus session
+
+**Thoughts**: Made much more progress today versus yesterday, yay! Still have a lot more to do to simplify the code and get all the pieces working efficiently. Perhaps by the end of the month I'll be able to start adding new features :)
+
+**Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/041a1be329512826ce36681ab9ab84f73bb1d81d)
