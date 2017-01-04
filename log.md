@@ -39,3 +39,11 @@
 **Thoughts**: Worked solidly for an hour and didn't accomplish much. Starting to see why software development takes so long! Need to work on calling data from new serialized arrays tomorrow.
 
 **Links to work**: [#](https://github.com/DustinHartzler/As-Heard-On/commit/2dbbd5b9c7e513930e9a57927105c7d5c89fe265), [#](https://github.com/DustinHartzler/As-Heard-On/commit/8a0e92a16b32d4e9dc23a3e7681f68505db585c2), [#](https://github.com/DustinHartzler/As-Heard-On/commit/54b90a1da2a637f0ace338c18ff13f21561e49a1)
+
+### Day 6: 03 January 2017
+
+**Today's Progress**: Have one option running on serialized data.
+
+**Thoughts**: Slow moving today. Started to move variables to serialized array. Much harder than expected.
+
+**Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/7f2b3f02dd98ddb5b8f6b574aed6ee19726d569d)
