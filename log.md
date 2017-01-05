@@ -55,3 +55,11 @@
 **Thoughts**: Made much more progress today versus yesterday, yay! Still have a lot more to do to simplify the code and get all the pieces working efficiently. Perhaps by the end of the month I'll be able to start adding new features :)
 
 **Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/041a1be329512826ce36681ab9ab84f73bb1d81d)
+
+### Day 8: 05 January 2017
+
+**Today's Progress**: Made more progress moving data to the serialized array. Only a handful more and this task will be complete!
+
+**Thoughts**: I thought I'd get everything finished today, yet, when I went to start working on the page settings, I realized all of the widget settings were being erased. Two steps forward and one back. Both panels are working now.
+
+**Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/1cf1a50d65f0c69b271cf35ed35aaf06a174ff15)
