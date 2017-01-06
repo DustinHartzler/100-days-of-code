@@ -63,3 +63,11 @@
 **Thoughts**: I thought I'd get everything finished today, yet, when I went to start working on the page settings, I realized all of the widget settings were being erased. Two steps forward and one back. Both panels are working now.
 
 **Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/1cf1a50d65f0c69b271cf35ed35aaf06a174ff15)
+
+### Day 9: 06 January 2017
+
+**Today's Progress**: Finished moving all variables to serialized array.
+
+**Thoughts**: Again, it was a bit tricker than I thought it would be and now I know why it's so important to set things up properly the first time :) Tomorrow I'll do a bit of testing and see how well things work when I update the plugin to the new version.
+
+**Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/b34215944f1d2b42f492aef36a5df6cd94ecdd5e)
