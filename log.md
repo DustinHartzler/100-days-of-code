@@ -71,3 +71,11 @@
 **Thoughts**: Again, it was a bit tricker than I thought it would be and now I know why it's so important to set things up properly the first time :) Tomorrow I'll do a bit of testing and see how well things work when I update the plugin to the new version.
 
 **Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/b34215944f1d2b42f492aef36a5df6cd94ecdd5e)
+
+### Day 10: 07 January 2017
+
+**Today's Progress**: Tested the upgrade routine and if the variables would be mapped correctly when activating 2.0
+
+**Thoughts**: I had changed a few variables, so all of the settings didn't map correctly to the serialized array. After a few tweaks everything looks good now.
+
+**Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/79e35380d1ca9d7d8797d6d1e06aa8fcff7eb2a1)
