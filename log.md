@@ -79,3 +79,11 @@
 **Thoughts**: I had changed a few variables, so all of the settings didn't map correctly to the serialized array. After a few tweaks everything looks good now.
 
 **Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/79e35380d1ca9d7d8797d6d1e06aa8fcff7eb2a1)
+
+### Day 11: 08 January 2017
+
+**Today's Progress**: Fixed imgdisplay values not transferring over on upgrade
+
+**Thoughts**: Still testing old plugin versus new to make sure all values are being transferred over so the settings don't need to be configured again. Slow process, but still enjoyable :)
+
+**Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/132c9c53e7d3f330c18fdf31537865e8ed6f9ac5)
