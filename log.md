@@ -87,3 +87,11 @@
 **Thoughts**: Still testing old plugin versus new to make sure all values are being transferred over so the settings don't need to be configured again. Slow process, but still enjoyable :)
 
 **Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/132c9c53e7d3f330c18fdf31537865e8ed6f9ac5)
+
+### Day 12: 09 January 2017
+
+**Today's Progress**: Fixed deldata variable and changed code to delete data when the plugin is uninstalled. It was set to delete on deactivation.
+
+**Thoughts**: Another slowish day. Changed two things at once and it made things go all goofy. Remember, work on one thing at a time ;)
+
+**Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/c2720ade1113724352943af3f6b298c244046feb)
