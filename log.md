@@ -95,3 +95,11 @@
 **Thoughts**: Another slowish day. Changed two things at once and it made things go all goofy. Remember, work on one thing at a time ;)
 
 **Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/c2720ade1113724352943af3f6b298c244046feb)
+
+### Day 13: 10 January 2017
+
+**Today's Progress**: Worked on adding default settings for the plugin. Nothing worked.
+
+**Thoughts**: Will attempt to make progress tomorrow.
+
+**Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/a13c34d977d60bdd7602c03d816d5e3595c2c765)
