@@ -103,3 +103,11 @@
 **Thoughts**: Will attempt to make progress tomorrow.
 
 **Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/a13c34d977d60bdd7602c03d816d5e3595c2c765)
+
+### Day 14: 11 January 2017
+
+**Today's Progress**: Fixed a bug if no host, other details wouldn't show.
+
+**Thoughts**: Spent a majority of the day figuring out how to change a column name in the database. `testid` didn't make sense, so I changed it to `aho_id` will finish the code tomorrow.
+
+**Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/1681e602ebefa6a5c1b2f98a5acaafa0824d6c22)
