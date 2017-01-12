@@ -111,3 +111,11 @@
 **Thoughts**: Spent a majority of the day figuring out how to change a column name in the database. `testid` didn't make sense, so I changed it to `aho_id` will finish the code tomorrow.
 
 **Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/1681e602ebefa6a5c1b2f98a5acaafa0824d6c22)
+
+### Day 15: 12 January 2017
+
+**Today's Progress**: Finished changing all the `testid` to `aho_id` in the plugin.
+
+**Thoughts**: Also started exploring CodeKit and eventually figured out how to compile my Sass and JS files. I'll explore this a bit more later.
+
+**Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/4abb3f1c588507ae35c686582f5456bb67d639a0)
