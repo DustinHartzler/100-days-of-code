@@ -119,3 +119,11 @@
 **Thoughts**: Also started exploring CodeKit and eventually figured out how to compile my Sass and JS files. I'll explore this a bit more later.
 
 **Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/4abb3f1c588507ae35c686582f5456bb67d639a0)
+
+### Day 16: 13 January 2017
+
+**Today's Progress**: Fixed some small visuals and added some Javascript
+
+**Thoughts**: I can now rearrange the podcasts by clicking and dragging, but the new values aren't updated in the database. That's next :)
+
+**Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/6653e4367908662f03d45ba56a1d89828515b6b8)
