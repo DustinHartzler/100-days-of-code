@@ -127,3 +127,19 @@
 **Thoughts**: I can now rearrange the podcasts by clicking and dragging, but the new values aren't updated in the database. That's next :)
 
 **Link to work**: [As Heard On](https://github.com/DustinHartzler/As-Heard-On/commit/6653e4367908662f03d45ba56a1d89828515b6b8)
+
+### Day 17: 15 January 2017
+
+**Today's Progress**: Bit different challenge today. Wrote some SQL commands to change copy on YourWebsiteEngineer.com
+
+**Thoughts**: Changed some outdated text and switched to WP SEO from Yoast. Had to write SQL to change meta data from one plugin to another.
+
+**Link to work**: [Your Website Engineer](https://github.com/DustinHartzler/ywe/commit/b9fce5bc935c2af48614e9431d3e3042d5ae1d22)
+
+### Day 18: 15 January 2017
+
+**Today's Progress**: (Sunday)
+
+**Thoughts**: 
+
+**Link to work**:
