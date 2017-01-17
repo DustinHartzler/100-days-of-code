@@ -138,8 +138,14 @@
 
 ### Day 18: 15 January 2017
 
-**Today's Progress**: (Sunday)
+**Today's Progress**: Little different today. Spent time checking connections to VaultPress.
 
-**Thoughts**: 
+**Thoughts**: Boring but necessary work.
 
-**Link to work**:
+### Day 19: 16 January 2017
+
+**Today's Progress**: Started making adjustments to my theme to make it better.
+
+**Thoughts**: I haven't worked on my site for a really long time. This ends now. Started to dedicate a few hours per week for modifications and customizations.
+
+**Link to work**: [Your Website Engineer](https://github.com/DustinHartzler/ywe/commit/26397fc282454c6a119c82e7a89865645fdfb1d6)
