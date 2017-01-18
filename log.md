@@ -149,3 +149,9 @@
 **Thoughts**: I haven't worked on my site for a really long time. This ends now. Started to dedicate a few hours per week for modifications and customizations.
 
 **Link to work**: [Your Website Engineer](https://github.com/DustinHartzler/ywe/commit/26397fc282454c6a119c82e7a89865645fdfb1d6)
+
+### Day 20: 17 January 2017
+
+**Today's Progress**: Got the footer optin almost complete. Need some responsive testing and to pretty up the button a bit.
+
+**Thoughts**: This is fun. I miss tweaking and building websites.
