@@ -155,3 +155,11 @@
 **Today's Progress**: Got the footer optin almost complete. Need some responsive testing and to pretty up the button a bit.
 
 **Thoughts**: This is fun. I miss tweaking and building websites.
+
+### Day 21: 18 January 2017
+
+**Today's Progress**: Fixed 404 page. It's been broken since my LeadPages account expired.
+
+**Thoughts**: Again, more fun. The time went really quickly!
+
+**Link to work**: [Your Website Engineer](https://github.com/DustinHartzler/ywe/commit/9be4259f8f930052c8946494774523b7af1fa4aa)
