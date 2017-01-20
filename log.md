@@ -163,3 +163,19 @@
 **Thoughts**: Again, more fun. The time went really quickly!
 
 **Link to work**: [Your Website Engineer](https://github.com/DustinHartzler/ywe/commit/9be4259f8f930052c8946494774523b7af1fa4aa)
+
+### Day 22: 20 January 2017
+
+**Today's Progress**: Spent time making lightbox appear when clicking on the subscribe link, a custom lightbox, not the standard one that comes with ConvertKit
+
+**Thoughts**: Once I get this all figured out, I'll be implementing this box everywhere because it's much nicer than the standard ConvertKit one.
+
+**Link to work**: [Your Website Engineer](https://github.com/DustinHartzler/ywe/commit/fcf43554f0195803c98e5a9e9b7f9850145d20ff)
+
+### Day 23: 20 January 2017
+
+**Today's Progress**: Spent nearly the whole time figuring out how to remove the placeholder text.
+
+**Thoughts**: I still am very weak in how to incorporate Javascript correctly into a WordPress site.
+
+**Link to work**: [Your Website Engineer](https://github.com/DustinHartzler/ywe/commit/b7279b45dd2b2bcfb581914bc89247b67820a18f)
