@@ -179,3 +179,19 @@
 **Thoughts**: I still am very weak in how to incorporate Javascript correctly into a WordPress site.
 
 **Link to work**: [Your Website Engineer](https://github.com/DustinHartzler/ywe/commit/b7279b45dd2b2bcfb581914bc89247b67820a18f)
+
+### Day 24: 22 January 2017
+
+**Today's Progress**: Added Affiliate link to popup box. Moved code for popup to own file to make it easier to use on other pages.
+
+**Thoughts**: Since everything is working as I'd like, now I've moved the code into it's own file so I can use it more easily.
+
+**Link to work**: [Your Website Engineer](https://github.com/DustinHartzler/ywe/commit/89a1f96cb1c9d469f3d69cf7e8967fc068d4cf69)
+
+### Day 25: 22 January 2017
+
+**Today's Progress**: Added code to call the popup from the sidebar and reworked sidebar widget to display this form instead. Tweaked CSS to move the popup module beneath the sticky menu.
+
+**Thoughts**: Took a little while to figure out how to get the popup to be shown in the right spot, it was initially showing at the way bottom of the screen. I'm really happy with the way it looks. Much better than the standard ConvertKit optin.
+
+**Link to work**: [Your Website Engineer](https://github.com/DustinHartzler/ywe/commit/1fe800c32baa9a944a3a4ae2d2cb13b58a33ada8)
