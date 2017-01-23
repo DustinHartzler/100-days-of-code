@@ -195,3 +195,11 @@
 **Thoughts**: Took a little while to figure out how to get the popup to be shown in the right spot, it was initially showing at the way bottom of the screen. I'm really happy with the way it looks. Much better than the standard ConvertKit optin.
 
 **Link to work**: [Your Website Engineer](https://github.com/DustinHartzler/ywe/commit/1fe800c32baa9a944a3a4ae2d2cb13b58a33ada8)
+
+### Day 26: 23 January 2017
+
+**Today's Progress**: Fixed a couple simple bugs for the WooCommerce USPS shipping extension.
+
+**Thoughts**: Today was a wonky day with half a day training, so I gave up trying to work on tickets. So I worked on a few outstanding issues that I could find. My goal is 4 pull requests per month and I've got 2 in so far.
+
+**Link to work**: Redacted (private repository)
