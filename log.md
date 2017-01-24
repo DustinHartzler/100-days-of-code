@@ -203,3 +203,11 @@
 **Thoughts**: Today was a wonky day with half a day training, so I gave up trying to work on tickets. So I worked on a few outstanding issues that I could find. My goal is 4 pull requests per month and I've got 2 in so far.
 
 **Link to work**: Redacted (private repository)
+
+### Day 27: 24 January 2017
+
+**Today's Progress**: More work today on the settings layout for WooCommerce USPS extension
+
+**Thoughts**: It's fun to work on projects that I use daily for work. I think I'll keep up working on WooCommerce extensions Monday-Friday and my projects on the weekends for a few weeks.
+
+**Link to work**: Redacted (private repository)
