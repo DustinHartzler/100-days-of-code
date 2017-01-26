@@ -211,3 +211,11 @@
 **Thoughts**: It's fun to work on projects that I use daily for work. I think I'll keep up working on WooCommerce extensions Monday-Friday and my projects on the weekends for a few weeks.
 
 **Link to work**: Redacted (private repository)
+
+### Day 28: 26 January 2017
+
+**Today's Progress**: Spent the whole time configure Oh My ZSH
+
+**Thoughts**: Figured it was best to spend an hour configuring my command line tool so I can get the most use out of it every day.
+
+**Link to work**:
