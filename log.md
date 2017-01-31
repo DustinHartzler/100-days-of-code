@@ -218,4 +218,12 @@
 
 **Thoughts**: Figured it was best to spend an hour configuring my command line tool so I can get the most use out of it every day.
 
-**Link to work**:
+**Link to work**: None
+
+### Day 27 - 28 - 29: 30 January 2017
+
+**Today's Progress**: Last three days have been weak codewise. I spent less than 3 hours total, but have moved all my sites to Pressable with SSL certificates.
+
+**Thoughts**: Really boring work. Hope to get back to programming tomorrow.
+
+**Link to work**: None
